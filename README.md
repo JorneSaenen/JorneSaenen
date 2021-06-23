@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React & React Native.
 
-- 🔭 I’m currently working on converting our company website to nextJS.
+<!--- 🔭 I’m currently working on converting our company website to nextJS.-->
 
 - 👯 I’m looking to collaborate on projects in React & Vanilla JS.
 
