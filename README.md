@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 Front-end Developer from Belgium.
 
-- 🌱 I’m currently learning React & React Native.
+- 🌱 I’m currently learning React (& nextJS).
 
 <!--- 🔭 I’m currently working on converting our company website to nextJS.-->
 
