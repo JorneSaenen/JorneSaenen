@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 - 💻 Front-end Developer from Belgium.
 
-- 🌱 I’m currently learning React (& nextJS).
+- 🔭 I’m currently working on converting our company website to nextJS.
 
-<!--- 🔭 I’m currently working on converting our company website to nextJS.-->
-
-- 👯 I’m looking to collaborate on projects in React & Vanilla JS.
+- 👯 I’m looking to collaborate on projects in React (nextjs) & Vanilla JS.
 
 - 🏎️ After coding is my hobby Formula 1.
 
