@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Front-end Developer from Belgium. 
-
-- 👯 I’m looking to collaborate on projects in React (nextjs) & Vanilla JS.
+- 💻 Full-Stack Developer from Belgium. 
 
 - 🏎️ After coding is my hobby Formula 1.
 
