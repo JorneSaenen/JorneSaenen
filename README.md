@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--![alt-text](https://github-readme-stats.vercel.app/api/top-langs/?username=JorneSaenen&hide=ruby,shell&title_color=937B6E&hide_border=false&text_color=937B6E)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorneSaenen&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorneSaenen&theme=react&langs_count=8)
 ### GitHub info
 
-[![jorne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorneSaenen&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=react&&langs_count=8)](https://github.com/JorneSaenen/github-readme-stats)
+[![jorne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorneSaenen&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=react)](https://github.com/JorneSaenen/github-readme-stats)
 
