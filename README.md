@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorneSaenen&theme=react)
 ### GitHub info
 
-[![jorne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorneSaenen&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=react)](https://github.com/JorneSaenen/github-readme-stats)
+[![jorne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorneSaenen&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=react&&langs_count=8)](https://github.com/JorneSaenen/github-readme-stats)
 
